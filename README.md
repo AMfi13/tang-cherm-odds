@@ -1,16 +1,7 @@
-# Tang Cherm Odds
+# Tang Chern Odds
 
-Based on this research paper, build me a Tang cherm fraction app that has as inputs the number of rounds, Probability P and Odds (Risk Reward Ratio) R.
+This repo is based on the research paper by Tze Kai Chen (Kelly Criterion and Its Extension to Finite Games: A Game-Theoretic Approach), This is a Tang cherm fraction app that has as inputs the number of rounds, Probability P and Odds (Risk Reward Ratio) R.
 
-This project was built with [Lovable](https://lovable.dev).
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/bd40e868-bbe2-4ea7-bc9a-9b578279ebba).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
